@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "notionToken": "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",
+    "rootPageId": "https://www.notion.so/JULY-JEE-39605e0c56e9804e8702e6bd8647604e?source=copy_link",
+    "syncMode": "manual",
+    "syncAttachments": true,
+    "syncMetadata": true,
+    "scheduledIntervalMinutes": 30,
+    "attachmentUploadUrl": "",
+    "downloadImages": true
+  },
+  "syncState": {
+    "fileMappings": {},
+    "folderMappings": {},
+    "lastFullSync": 0
+  },
+  "syncHistory": {
+    "entries": []
+  }
+}
