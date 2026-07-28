@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"033fdafa1be9be6b","type":"file","file":"Backlogs.md","x":300,"y":80,"width":294,"height":307},
+		{"id":"01fa6658be7b2d0c","type":"text","text":"J E E ","x":-162,"y":-360,"width":116,"height":50},
+		{"id":"a2f28cafa4fcc9fb","x":-540,"y":-80,"width":250,"height":60,"type":"text","text":"Boards\n"},
+		{"id":"9c84775ae140b984","x":-600,"y":33,"width":400,"height":400,"type":"file","file":"Boards Plan to get on Track.md"}
+	],
+	"edges":[
+		{"id":"3160f6ddeb4e2209","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"033fdafa1be9be6b","toSide":"top"},
+		{"id":"de1b6ecfbe3e0879","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"a2f28cafa4fcc9fb","toSide":"top"},
+		{"id":"198741a727f8dec4","fromNode":"a2f28cafa4fcc9fb","fromSide":"bottom","toNode":"9c84775ae140b984","toSide":"top"}
+	]
+}
