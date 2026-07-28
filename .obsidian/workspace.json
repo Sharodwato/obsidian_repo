@@ -11,17 +11,14 @@
             "id": "157b15e2232b2de4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "BACKLOG MINDMAP.canvas",
-                "viewState": {
-                  "x": -21.25664465895477,
-                  "y": -337.35023357687896,
-                  "zoom": -0.8129034632585926
-                }
+                "file": "Qn FOR BOARDS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "BACKLOG MINDMAP"
+              "icon": "lucide-file",
+              "title": "Qn FOR BOARDS"
             }
           },
           {
@@ -223,19 +220,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "157b15e2232b2de4",
+  "active": "278a970391ec1208",
   "lastOpenFiles": [
-    "BACKLOG MINDMAP.canvas",
-    "Qn FOR BOARDS.md",
     "SHORT NOTES.md",
+    "Qn FOR BOARDS.md",
     "Boards Plan to get on Track using JEE ONE SHOTS 1.md",
     "Hi.md",
+    "BACKLOG MINDMAP.canvas",
     "obsidian_repo/Boards Plan to get on Track.md",
     "obsidian_repo/Backlogs.md",
     "obsidian_repo/BACKLOG MINDMAP.canvas",
     "obsidian_repo/README.md",
     "obsidian_repo",
-    "Backlogs for Lakshay JEE.md",
+    "Backlogs.md",
     "2026-07-10.md",
     "Untitled.base",
     "Untitled 1.base",
