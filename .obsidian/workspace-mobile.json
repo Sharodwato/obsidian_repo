@@ -11,17 +11,14 @@
             "id": "c2b4c451337d7b3a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MAPPING/BACKLOG MINDMAP.canvas",
-                "viewState": {
-                  "x": -456.25108609556236,
-                  "y": -262.2878756959889,
-                  "zoom": -1.1924127053423925
-                }
+                "file": "Yoo guys.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "BACKLOG MINDMAP"
+              "icon": "lucide-file",
+              "title": "Yoo guys"
             }
           }
         ]
@@ -182,7 +179,8 @@
   },
   "active": "c2b4c451337d7b3a",
   "lastOpenFiles": [
-    "Hi folks.md",
+    "MAPPING/BACKLOG MINDMAP.canvas",
+    "Yoo guys.md",
     "NOTES/SHORT NOTES.md",
     "Boards Plan to get on Track using JEE ONE SHOTS 1.md",
     "Qn FOR BOARDS.md",
@@ -190,7 +188,6 @@
     "NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md",
     "NOTES/Backlogs.md",
     "NOTES",
-    "MAPPING/BACKLOG MINDMAP.canvas",
     "MAPPING",
     "Boards Plan to get on Track.md",
     "BACKLOG MINDMAP.canvas",
