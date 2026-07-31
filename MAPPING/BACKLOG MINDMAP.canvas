@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"033fdafa1be9be6b","type":"file","file":"MAPPING/Backlogs.md","x":300,"y":80,"width":580,"height":940},
 		{"id":"33a273dbec80e5ee","type":"file","file":"Practicals and Projects.md","x":590,"y":-560,"width":400,"height":400},
-		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":37,"y":-385,"width":122,"height":50},
 		{"id":"6fc8c9a3a74e1db7","type":"file","file":"NOTES/Qn FOR BOARDS.md","x":-1320,"y":-480,"width":520,"height":1030},
 		{"id":"a6199e4f0468f92f","type":"file","file":"NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md","x":-40,"y":-1280,"width":553,"height":640},
-		{"id":"9c84775ae140b984","type":"file","file":"NOTES/SHORT NOTES.md","x":-580,"y":80,"width":480,"height":987}
+		{"id":"9c84775ae140b984","type":"file","file":"NOTES/SHORT NOTES.md","x":-580,"y":80,"width":440,"height":280},
+		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":40,"y":-385,"width":122,"height":50}
 	],
 	"edges":[
 		{"id":"3160f6ddeb4e2209","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"033fdafa1be9be6b","toSide":"top"},
