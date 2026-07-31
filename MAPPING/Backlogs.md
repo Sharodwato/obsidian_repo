@@ -7,11 +7,13 @@
 
 MATHS BACKLOG
 1. ITF
-- [x] Lecture (3)
-- [ ] Notes(10)
+- [ ] Lecture (41)
+- [x] Notes(10)
 1. R&F 
 - [ ] Lecture (3)
-- [ ] Notes 
+1. Limit Continuity
+- [ ] LECTURE
+- [ ] PRACTICE
 
 CHEMISTRY BACKLOG
 1. GI
