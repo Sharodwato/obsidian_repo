@@ -19,8 +19,8 @@ Maths (JEE Level)
 	- [x] Tangent Normal
 	- [x] Rate Measure
 	- [ ] Monotonic Increasing and Decreasing Fx
-	- [ ] Errors and Measurements
-	- [ ] Story Problems
+	- [x] Errors and Measurements
+	- [x] Story Problems
 - [ ] Probability
 	- [ ] Normal One
 	- [ ] Random var

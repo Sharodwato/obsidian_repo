@@ -7,23 +7,22 @@ Physics
 - [ ] EMI 
 - [ ] AC
 - [ ] EMW
--
 Maths (JEE Level)
 - [x] Determinants
 - [x] Matrix
 - [ ] Relation Functions
 - [ ] ITF
-- [ ] MOD
+- [x] MOD
 - [ ] AOD
-	- [ ] Maxima and Minima
-	- [ ] Tangent Normal
-	- [ ] Rate Measure
+	- [x] Maxima and Minima
+	- [x] Tangent Normal
+	- [x] Rate Measure
 	- [ ] Monotonic Increasing and Decreasing Fx
-	- [ ] Errors and Measurements
-	- [ ] Story Problems
+	- [x] Errors and Measurements
+	- [x] Story Problems
 - [ ] Probability
 	- [ ] Normal One
-	- [ ] Random var
+	- [x] Random var
 
 Chemistry
 - [ ] Solutions
