@@ -11,14 +11,17 @@
             "id": "157b15e2232b2de4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md",
-                "mode": "source",
-                "source": false
+                "file": "MAPPING/BACKLOG MINDMAP.canvas",
+                "viewState": {
+                  "x": 155.80984042682206,
+                  "y": -151.10413712279166,
+                  "zoom": -0.8943123328284257
+                }
               },
-              "icon": "lucide-file",
-              "title": "Boards Plan to get on Track using JEE ONE SHOTS 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "BACKLOG MINDMAP"
             }
           }
         ]
@@ -206,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "157b15e2232b2de4",
+  "active": "abdabbe343b4555d",
   "lastOpenFiles": [
+    "Practicals",
     "NOTES/Qn FOR BOARDS.md",
     "NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md",
     "Yoo guys.md",
