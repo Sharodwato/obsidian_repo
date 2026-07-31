@@ -15,9 +15,9 @@
               "state": {
                 "file": "MAPPING/BACKLOG MINDMAP.canvas",
                 "viewState": {
-                  "x": 155.80984042682206,
-                  "y": -151.10413712279166,
-                  "zoom": -0.8943123328284257
+                  "x": 139.23956418869233,
+                  "y": 779.7686101540605,
+                  "zoom": -0.4806911515291762
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,16 +30,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practicals.md",
+                "file": "Practicals and Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practicals"
+              "title": "Practicals and Projects"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,12 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0f927928295c5fc",
+  "active": "157b15e2232b2de4",
   "lastOpenFiles": [
+    "Practicals and Projects.md",
     "NOTES/Qn FOR BOARDS.md",
     "MAPPING/Backlogs.md",
     "MAPPING/BACKLOG MINDMAP.canvas",
-    "Practicals.md",
     "Practicals",
     "NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md",
     "Yoo guys.md",
