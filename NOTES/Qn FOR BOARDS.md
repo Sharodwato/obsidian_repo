@@ -9,7 +9,7 @@ Physics
 - [ ] EMW
 Maths (JEE Level)
 - [x] Determinants
-- [x] Matrix
+- [ ] Matrix
 - [ ] Relation Functions
 - [ ] ITF
 - [x] MOD
