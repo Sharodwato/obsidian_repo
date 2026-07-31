@@ -27,8 +27,8 @@ Maths (JEE Level)
 Chemistry
 - [ ] Solutions
 - [ ] P Block
-- [ ] Haloalkanes and Haloarenes
-- [ ] Alcohol Phenol Ether
+- [x] Haloalkanes and Haloarenes
+- [x] Alcohol Phenol Ether
 - [ ] Biomolecules 
 - [ ] Polymers
 - [ ] 
