@@ -15,9 +15,9 @@ Maths (JEE Level)
 - [ ] ITF
 - [ ] MOD
 - [ ] AOD
-	- [ ] Maxima and Minima
+	- [x] Maxima and Minima
 	- [x] Tangent Normal
-	- [ ] Rate Measure
+	- [x] Rate Measure
 	- [ ] Monotonic Increasing and Decreasing Fx
 	- [ ] Errors and Measurements
 	- [ ] Story Problems
