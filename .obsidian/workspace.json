@@ -11,14 +11,17 @@
             "id": "157b15e2232b2de4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "BACKLOG MINDMAP.canvas",
-                "bFile": "BACKLOG MINDMAP.canvas",
-                "aRef": ""
+                "file": "MAPPING/BACKLOG MINDMAP.canvas",
+                "viewState": {
+                  "x": -123,
+                  "y": -328,
+                  "zoom": -0.8114107112479689
+                }
               },
-              "icon": "diff",
-              "title": "Diff: BACKLOG MINDMAP.canvas  (Working Tree)"
+              "icon": "lucide-layout-dashboard",
+              "title": "BACKLOG MINDMAP"
             }
           }
         ]
@@ -206,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "278a970391ec1208",
+  "active": "157b15e2232b2de4",
   "lastOpenFiles": [
+    "Yoo guys.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "NOTES",
