@@ -6,7 +6,7 @@
 		{"id":"a6199e4f0468f92f","type":"file","file":"NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md","x":-40,"y":-1280,"width":553,"height":640},
 		{"id":"9c84775ae140b984","type":"file","file":"NOTES/SHORT NOTES.md","x":-580,"y":80,"width":440,"height":280},
 		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":40,"y":-385,"width":122,"height":50},
-		{"id":"ef6d6b1929c47a61","x":1100,"y":160,"width":250,"height":472,"type":"text","text":"Some imp Sties for jee\n1. Marks\n2. Examside"}
+		{"id":"ef6d6b1929c47a61","x":1100,"y":160,"width":250,"height":472,"type":"text","text":"Some imp Sties for jee\n1. Marks\n2. Examside\n3. syllabus Tracker\n4. Jee hub"}
 	],
 	"edges":[
 		{"id":"3160f6ddeb4e2209","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"033fdafa1be9be6b","toSide":"top"},
