@@ -15,9 +15,9 @@
               "state": {
                 "file": "MAPPING/BACKLOG MINDMAP.canvas",
                 "viewState": {
-                  "x": 148.5435612864597,
-                  "y": 223.30447335753234,
-                  "zoom": -1.143060071020025
+                  "x": 182.27866041311933,
+                  "y": 197.81794787712948,
+                  "zoom": -1.2483911391955598
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -58,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
