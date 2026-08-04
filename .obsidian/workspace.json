@@ -15,9 +15,9 @@
               "state": {
                 "file": "MAPPING/BACKLOG MINDMAP.canvas",
                 "viewState": {
-                  "x": 182.27866041311933,
-                  "y": 197.81794787712948,
-                  "zoom": -1.2483911391955598
+                  "x": 1215.4830186547426,
+                  "y": -25.942937017406365,
+                  "zoom": -0.4157036389521984
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -225,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "157b15e2232b2de4",
+  "active": "abdabbe343b4555d",
   "lastOpenFiles": [
     "Practicals and Projects.md",
     "NOTES/Qn FOR BOARDS.md",

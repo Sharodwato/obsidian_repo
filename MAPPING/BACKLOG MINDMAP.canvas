@@ -5,13 +5,15 @@
 		{"id":"6fc8c9a3a74e1db7","type":"file","file":"NOTES/Qn FOR BOARDS.md","x":-1320,"y":-480,"width":520,"height":1030},
 		{"id":"a6199e4f0468f92f","type":"file","file":"NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md","x":-40,"y":-1280,"width":553,"height":640},
 		{"id":"9c84775ae140b984","type":"file","file":"NOTES/SHORT NOTES.md","x":-580,"y":80,"width":440,"height":280},
-		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":40,"y":-385,"width":122,"height":50}
+		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":40,"y":-385,"width":122,"height":50},
+		{"id":"ef6d6b1929c47a61","x":1100,"y":160,"width":250,"height":472,"type":"text","text":"Some imp Sties for jee\n1. Marks\n2. Examside"}
 	],
 	"edges":[
 		{"id":"3160f6ddeb4e2209","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"033fdafa1be9be6b","toSide":"top"},
 		{"id":"3a33483d9d14e8ab","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"9c84775ae140b984","toSide":"top"},
 		{"id":"98875de564858757","fromNode":"01fa6658be7b2d0c","fromSide":"top","toNode":"6fc8c9a3a74e1db7","toSide":"top"},
 		{"id":"fda88fcce039b337","fromNode":"01fa6658be7b2d0c","fromSide":"top","toNode":"a6199e4f0468f92f","toSide":"bottom"},
-		{"id":"a16806516e2c12bc","fromNode":"01fa6658be7b2d0c","fromSide":"right","toNode":"33a273dbec80e5ee","toSide":"left"}
+		{"id":"a16806516e2c12bc","fromNode":"01fa6658be7b2d0c","fromSide":"right","toNode":"33a273dbec80e5ee","toSide":"left"},
+		{"id":"8c1ae0b49dc03f2c","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"ef6d6b1929c47a61","toSide":"top"}
 	]
 }
