@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"6fc8c9a3a74e1db7","type":"file","file":"NOTES/Qn FOR BOARDS.md","x":-1320,"y":-480,"width":520,"height":1030},
 		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":40,"y":-385,"width":122,"height":50},
-		{"id":"9c84775ae140b984","type":"file","file":"NOTES/SHORT NOTES.md","x":-480,"y":320,"width":440,"height":1000},
 		{"id":"033fdafa1be9be6b","type":"file","file":"MAPPING/Backlogs.md","x":210,"y":320,"width":580,"height":940},
-		{"id":"33a273dbec80e5ee","type":"file","file":"Practicals and Projects.md","x":1120,"y":60,"width":400,"height":400},
-		{"id":"ef6d6b1929c47a61","type":"text","text":"Some imp Sties for jee\n1. Marks\n2. Examside\n3. syllabus Tracker\n4. Jee hub","x":790,"y":-335,"width":590,"height":180},
-		{"id":"a6199e4f0468f92f","type":"file","file":"NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md","x":-452,"y":-1320,"width":553,"height":640}
+		{"id":"a6199e4f0468f92f","type":"file","file":"NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md","x":-452,"y":-1320,"width":553,"height":640},
+		{"id":"9c84775ae140b984","type":"file","file":"NOTES/SHORT NOTES.md","x":-615,"y":35,"width":440,"height":1000},
+		{"id":"33a273dbec80e5ee","type":"file","file":"Practicals and Projects.md","x":685,"y":-1120,"width":400,"height":400},
+		{"id":"ef6d6b1929c47a61","type":"text","text":"Some imp Sties for jee\n1. Marks\n2. Examside\n3. syllabus Tracker\n4. Jee hub","x":790,"y":-360,"width":590,"height":180},
+		{"id":"6fc8c9a3a74e1db7","type":"file","file":"NOTES/Qn FOR BOARDS.md","x":-1520,"y":-360,"width":520,"height":1030}
 	],
 	"edges":[
 		{"id":"3160f6ddeb4e2209","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"033fdafa1be9be6b","toSide":"top"},
