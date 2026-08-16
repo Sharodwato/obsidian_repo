@@ -11,17 +11,14 @@
             "id": "157b15e2232b2de4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MAPPING/BACKLOG MINDMAP.canvas",
-                "viewState": {
-                  "x": -440.9381596623658,
-                  "y": 66.55389516532017,
-                  "zoom": -1.0170091813251123
-                }
+                "file": "Practicals and Projects.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "BACKLOG MINDMAP"
+              "icon": "lucide-file",
+              "title": "Practicals and Projects"
             }
           },
           {
@@ -225,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "157b15e2232b2de4",
+  "active": "abdabbe343b4555d",
   "lastOpenFiles": [
-    "Practicals and Projects.md",
     "MAPPING/BACKLOG MINDMAP.canvas",
+    "Practicals and Projects.md",
     "NOTES/Qn FOR BOARDS.md",
     "MAPPING/Backlogs.md",
     "Practicals",

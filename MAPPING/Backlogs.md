@@ -17,8 +17,8 @@ MATHS BACKLOG
 
 CHEMISTRY BACKLOG
 1. GI
-- [ ] Lecture (2)
-- [ ] Notes
+- [x] Lecture (2)
+- [x] Notes
 2. OI
 - [ ] Lecture (2)
 - [ ] Notes 

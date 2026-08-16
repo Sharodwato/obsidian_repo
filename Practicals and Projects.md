@@ -2,9 +2,9 @@
 - [x] CHEMISTRY
 - [ ] CS
 **PROJECTS** 
-- [ ] Physics
+- [x] Physics
 - [ ] Chemistry
-- [ ] Maths
-- [ ] Bangla
+- [x] Maths
+- [x] Bangla
 - [ ] English
 

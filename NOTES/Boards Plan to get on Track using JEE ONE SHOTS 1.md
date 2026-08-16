@@ -1,11 +1,11 @@
 Physics
 - [x] Electrostatics
 - [x] Electric Dipole and Conductor
-- [ ] Current Electricity
-- [ ] Capacitor
+- [x] Current Electricity
+- [x] Capacitor
 - [x] Magnetism
 - [ ] EMI 
-- [ ] AC
+- [x] AC
 - [ ] EMW
 -
 Maths (JEE Level)
