@@ -1,6 +1,5 @@
 Physics
 - [ ] Electrostatics
-- [ ] Electric Dipole and Conductor
 - [ ] Current Electricity
 - [ ] Capacitor
 - [x] Magnetism
