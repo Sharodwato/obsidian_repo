@@ -4,7 +4,7 @@ Physics
 - [x] Current Electricity
 - [x] Capacitor
 - [x] Magnetism
-- [ ] EMI 
+- [x] EMI 
 - [x] AC
 - [ ] EMW
 -
