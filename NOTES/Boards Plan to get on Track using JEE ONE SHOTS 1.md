@@ -3,7 +3,8 @@ Physics
 - [x] Electric Dipole and Conductor
 - [x] Current Electricity
 - [x] Capacitor
-- [x] Magnetism
+- [x] Electromagnetism
+- [ ] Magnetics
 - [x] EMI 
 - [x] AC
 - [ ] EMW
@@ -21,9 +22,9 @@ Maths (JEE Level)
 	- [ ] Monotonic Increasing and Decreasing Fx
 	- [x] Errors and Measurements
 	- [x] Story Problems
-- [ ] Probability
-	- [ ] Normal One
-	- [ ] Random var
+- [x] Probability
+	- [x] Normal One
+	- [x] Random var
 
 Chemistry
 - [x] Solutions

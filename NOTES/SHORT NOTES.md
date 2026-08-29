@@ -3,33 +3,33 @@ Physics
 - [ ] Electric Dipole and Conductor
 - [ ] Current Electricity
 - [ ] Capacitor
-- [ ] Magnetism
+- [x] Magnetism
 - [ ] EMI 
 - [ ] AC
 - [ ] EMW
 -
 Maths (JEE Level)
 - [ ] Determinants
-- [ ] Matrix
+- [x] Matrix
 - [ ] Relation Functions
 - [ ] ITF
 - [ ] MOD
 - [ ] AOD
 	- [ ] Maxima and Minima
-	- [ ] Tangent Normal
+	- [x] Tangent Normal
 	- [ ] Rate Measure
 	- [ ] Monotonic Increasing and Decreasing Fx
 	- [ ] Errors and Measurements
 	- [ ] Story Problems
-- [ ] Probability
-	- [ ] Normal One
-	- [ ] Random var
+- [x] Probability
+	- [x] Normal One
+	- [x] Random var
 
 Chemistry
 - [ ] Solutions
 - [ ] P Block
-- [ ] Haloalkanes and Haloarenes
-- [ ] Alcohol Phenol Ether
+- [x] Haloalkanes and Haloarenes
+- [x] Alcohol Phenol Ether
 - [ ] Biomolecules 
 - [ ] Polymers
 - [ ] 
