@@ -4,10 +4,10 @@ Physics
 - [x] Current Electricity
 - [x] Capacitor
 - [x] Electromagnetism
-- [ ] Magnetics
+- [x] Magnetics
 - [x] EMI 
 - [x] AC
-- [ ] EMW
+- [x] EMW
 -
 Maths (JEE Level)
 - [x] Determinants
@@ -15,7 +15,7 @@ Maths (JEE Level)
 - [x] Relation Functions
 - [ ] ITF
 - [ ] MOD
-- [ ] AOD
+- [x] AOD
 	- [x] Maxima and Minima
 	- [x] Tangent Normal
 	- [x] Rate Measure
@@ -29,8 +29,8 @@ Maths (JEE Level)
 Chemistry
 - [x] Solutions
 - [ ] P Block
-- [ ] Haloalkanes and Haloarenes
-- [ ] Alcohol Phenol Ether
+- [x] Haloalkanes and Haloarenes
+- [x] Alcohol Phenol Ether
 - [ ] Biomolecules 
 - [ ] Polymers
 - [ ] 

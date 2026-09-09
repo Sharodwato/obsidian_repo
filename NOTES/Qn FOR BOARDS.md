@@ -1,16 +1,16 @@
 Physics
 - [x] Electrostatics
-- [ ] Electric Dipole and Conductor
-- [ ] Current Electricity
+- [x] Electric Dipole and Conductor
+- [x] Current Electricity
 - [ ] Capacitor
-- [ ] Magnetism
+- [x] Magnetism
 - [ ] EMI 
-- [ ] AC
+- [x] AC
 - [ ] EMW
 Maths (JEE Level)
 - [x] Determinants
-- [ ] Matrix
-- [ ] Relation Functions
+- [x] Matrix
+- [x] Relation Functions
 - [ ] ITF
 - [x] MOD
 - [ ] AOD
