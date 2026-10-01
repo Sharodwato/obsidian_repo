@@ -8,8 +8,8 @@
 			- [ ] Area Under Curve
 			- [ ] Differential Eqn
 	6. Probability
-	7. [ ] Differential Calculus -----
-				- [ ] LCD
-				- [ ] MOD
-				- [ ] AOD
+	7. [ ] Differential Calculus ----
+				- [x] LCD
+				- [x] MOD
+				- [x] AOD
 	8. [ ] ITF
