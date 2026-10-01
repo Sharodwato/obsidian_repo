@@ -9,7 +9,7 @@
 			- [ ] Differential Eqn
 	6. Probability
 	7. [ ] Differential Calculus ----
-				- [x] LCD
-				- [x] MOD
-				- [x] AOD
+				- [ ] LCD
+				- [ ] MOD
+				- [ ] AOD
 	8. [ ] ITF
