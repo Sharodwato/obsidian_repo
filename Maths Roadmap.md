@@ -22,10 +22,9 @@
 5. [ ] Complex No.
 6. [ ] Statistics
 7. [x] Quadratic Eqn
-8. [ ] Trigonometry
-9. [ ] Str Line 
+8. [x] Trigonometry
+9. [x] Str Line 
 10. [ ] Circle 
 11. [ ] Parabola
 12. [ ] Ellipse
 13. [ ] Hyperbola
-14. 
