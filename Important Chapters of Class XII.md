@@ -1,4 +1,4 @@
-1. [ ] Vector & 3D  
+1. [ ] Vector & 3D  ( 6)
 2. [ ] Matrix and Determinant
 3. [ ] Relation
 4. [ ] Function
