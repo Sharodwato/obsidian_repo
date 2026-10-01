@@ -1,5 +1,5 @@
-1. [ ] Vector & 3D  (6 STARS )
-2. [ ] Matrix and Determinant
+1. [ ] Vector & 3D  (5 STARS )
+2. [ ] Matrix and Determinant (5 STARS)
 3. [ ] Relation
 4. [ ] Function
 5. [ ] Integral Calculus ----
