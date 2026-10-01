@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Roadmap.md",
+                "file": "Chemistry Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths Roadmap"
+              "title": "Chemistry Roadmap"
             }
           },
           {
@@ -256,10 +256,10 @@
   },
   "active": "be9c92f9a885ea45",
   "lastOpenFiles": [
+    "Maths Roadmap.md",
     "NOTES/SHORT NOTES.md",
     "NOTES/Qn FOR BOARDS.md",
     "Chemistry Roadmap.md",
-    "Maths Roadmap.md",
     "MAPPING/BACKLOG MINDMAP.canvas",
     "MAPPING/Backlogs.md",
     "NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md",

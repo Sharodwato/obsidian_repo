@@ -9,17 +9,17 @@
 			- [ ] Differential Eqn. (4 STARS)
 	6. [ ] Probability (4 STARS)
 	7. [ ] Differential Calculus ----
-				- [ ] LCD (3 STARS)
+				- [ ] LCD (3 STARS) 
 				- [ ] MOD (2 STARS)
 				- [ ] AOD (2 STARS)
-	8. [ ] ITF (2 STARS) 8008
+	8. [ ] ITF (2 STARS) <--------- ----------
 	
 **IMPORTANT CHAPTERS OF CLASS XI**
 1. [x] Basic Maths
 2. [x] Seq and series 
 3. [x] PnC
 4. [ ] Binomial Theorem
-5. [ ] Complex No.
+5. [ ] Complex No. <--------- ----------
 6. [ ] Statistics
 7. [x] Quadratic Eqn
 8. [x] Trigonometry
