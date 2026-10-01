@@ -6,6 +6,5 @@
 6. [ ] GOC
 7. [ ] Aldehyde + Amine
 8. [ ] Electrochemistry
-9. [ ] Chemical Kinematics
+9. [ ] Chemical Kinematics (****)
 10. [ ] Co- Ordination Compound
-11. 
