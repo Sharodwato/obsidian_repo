@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Maths Roadmap.md",
+                "file": "Maths Roadmap.md",
                 "mode": "source",
                 "source": false
               },
@@ -42,10 +42,17 @@
             "id": "be9c92f9a885ea45",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "MAPPING/BACKLOG MINDMAP.canvas",
+                "viewState": {
+                  "x": -72.62296387395608,
+                  "y": -99.21254847267028,
+                  "zoom": -1.4313416617060328
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "BACKLOG MINDMAP"
             }
           },
           {
@@ -253,10 +260,10 @@
   "active": "be9c92f9a885ea45",
   "lastOpenFiles": [
     "NOTES/Practicals and Projects.md",
-    "NOTES/Chemistry Roadmap.md",
+    "Chemistry Roadmap.md",
     "MAPPING/BACKLOG MINDMAP.canvas",
     "MAPPING/Backlogs.md",
-    "NOTES/Maths Roadmap.md",
+    "Maths Roadmap.md",
     "NOTES/SHORT NOTES.md",
     "NOTES/Qn FOR BOARDS.md",
     "NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md",

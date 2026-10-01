@@ -1,12 +1,14 @@
 {
 	"nodes":[
+		{"id":"e48709228213647a","x":167,"y":-1180,"width":400,"height":400,"type":"file","file":"Maths Roadmap.md"},
 		{"id":"033fdafa1be9be6b","type":"file","file":"MAPPING/Backlogs.md","x":210,"y":320,"width":580,"height":940},
 		{"id":"a6199e4f0468f92f","type":"file","file":"NOTES/Boards Plan to get on Track using JEE ONE SHOTS 1.md","x":-452,"y":-1320,"width":553,"height":640},
 		{"id":"9c84775ae140b984","type":"file","file":"NOTES/SHORT NOTES.md","x":-615,"y":35,"width":440,"height":1000},
 		{"id":"33a273dbec80e5ee","type":"file","file":"NOTES/Practicals and Projects.md","x":685,"y":-1120,"width":400,"height":400},
 		{"id":"ef6d6b1929c47a61","type":"text","text":"Some imp Sties for jee\n1. Marks\n2. Examside\n3. syllabus Tracker\n4. Jee hub","x":790,"y":-360,"width":590,"height":180},
 		{"id":"6fc8c9a3a74e1db7","type":"file","file":"NOTES/Qn FOR BOARDS.md","x":-1520,"y":-360,"width":520,"height":1030},
-		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":-297,"y":-360,"width":122,"height":50}
+		{"id":"01fa6658be7b2d0c","type":"text","text":"   J E E ","x":-297,"y":-360,"width":122,"height":50},
+		{"id":"13ed55677784a1a7","x":-1235,"y":-1182,"width":400,"height":400,"type":"file","file":"Chemistry Roadmap.md"}
 	],
 	"edges":[
 		{"id":"3160f6ddeb4e2209","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"033fdafa1be9be6b","toSide":"top"},
@@ -14,6 +16,8 @@
 		{"id":"98875de564858757","fromNode":"01fa6658be7b2d0c","fromSide":"top","toNode":"6fc8c9a3a74e1db7","toSide":"top"},
 		{"id":"fda88fcce039b337","fromNode":"01fa6658be7b2d0c","fromSide":"top","toNode":"a6199e4f0468f92f","toSide":"bottom"},
 		{"id":"a16806516e2c12bc","fromNode":"01fa6658be7b2d0c","fromSide":"right","toNode":"33a273dbec80e5ee","toSide":"left"},
-		{"id":"8c1ae0b49dc03f2c","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"ef6d6b1929c47a61","toSide":"top"}
+		{"id":"8c1ae0b49dc03f2c","fromNode":"01fa6658be7b2d0c","fromSide":"bottom","toNode":"ef6d6b1929c47a61","toSide":"top"},
+		{"id":"ad751f6ad2f1df3d","fromNode":"01fa6658be7b2d0c","fromSide":"top","toNode":"13ed55677784a1a7","toSide":"bottom"},
+		{"id":"528228ef3c9664d2","fromNode":"01fa6658be7b2d0c","fromSide":"top","toNode":"e48709228213647a","toSide":"bottom"}
 	]
 }
