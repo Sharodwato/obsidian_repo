@@ -1,4 +1,4 @@
-1. [ ] Vector & 3D  ( 6)
+1. [ ] Vector & 3D  (6 STARS )
 2. [ ] Matrix and Determinant
 3. [ ] Relation
 4. [ ] Function
