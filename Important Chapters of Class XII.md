@@ -5,4 +5,8 @@
 5. [ ] Integral Calculus ----
 			Indefinite Integration
 			Definite Integration
-			Area 
+			Area Under Curve
+			Differential Eqn
+	6. Probability
+	7. Differential Calculus -----
+			
