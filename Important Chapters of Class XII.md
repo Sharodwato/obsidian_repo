@@ -3,10 +3,13 @@
 3. [ ] Relation
 4. [ ] Function
 5. [ ] Integral Calculus ----
-			Indefinite Integration
-			Definite Integration
-			Area Under Curve
-			Differential Eqn
+			- [ ] Indefinite Integration
+			- [ ] Definite Integration
+			- [ ] Area Under Curve
+			- [ ] Differential Eqn
 	6. Probability
-	7. Differential Calculus -----
-			
+	7. [ ] Differential Calculus -----
+				- [ ] LCD
+				- [ ] MOD
+				- [ ] AOD
+	8. [ ] ITF
