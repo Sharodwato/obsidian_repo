@@ -1,15 +1,15 @@
 1. [ ] Vector & 3D  (5 STARS )
 2. [ ] Matrix and Determinant (5 STARS)
-3. [ ] Relation
-4. [ ] Function
+3. [ ] Relation ( 4 STARS)
+4. [ ] Function (4 STARS)
 5. [ ] Integral Calculus ----
-			- [ ] Indefinite Integration
-			- [ ] Definite Integration
-			- [ ] Area Under Curve
-			- [ ] Differential Eqn.
-	6. Probability
+			- [ ] Indefinite Integration (2 STARS)
+			- [ ] Definite Integration (4 STARS)
+			- [ ] Area Under Curve (3 STARS)
+			- [ ] Differential Eqn. (4 STARS)
+	6. Probability (4 STARS)
 	7. [ ] Differential Calculus ----
-				- [ ] LCD
-				- [ ] MOD
+				- [ ] LCD (3 STARS)
+				- [ ] MOD ()
 				- [ ] AOD
 	8. [ ] ITF
