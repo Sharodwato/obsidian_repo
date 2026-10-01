@@ -7,7 +7,7 @@
 			- [ ] Definite Integration (4 STARS)
 			- [ ] Area Under Curve (3 STARS)
 			- [ ] Differential Eqn. (4 STARS)
-	6. Probability (4 STARS)
+	6. [ ] Probability (4 STARS)
 	7. [ ] Differential Calculus ----
 				- [ ] LCD (3 STARS)
 				- [ ] MOD (2 STARS)
