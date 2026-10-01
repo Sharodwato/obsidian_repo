@@ -6,7 +6,7 @@
 			- [ ] Indefinite Integration
 			- [ ] Definite Integration
 			- [ ] Area Under Curve
-			- [ ] Differential Eqn
+			- [ ] Differential Eqn.
 	6. Probability
 	7. [ ] Differential Calculus ----
 				- [ ] LCD
