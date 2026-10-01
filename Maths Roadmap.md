@@ -15,15 +15,17 @@
 	8. [ ] ITF (2 STARS)
 	
 **IMPORTANT CHAPTERS OF CLASS XI**
-1. Basic Maths
-2. Seq and series 
-3. PnC
-4. Binomial Theorem
-5. Complex No.
-6. Statistics
-7. Quadratic Eqn
-8. Trigonometry
-9. Str Line 
-10. Circle 
-11. Parabola
-12. 
+1. [x] Basic Maths
+2. [x] Seq and series 
+3. [x] PnC
+4. [ ] Binomial Theorem
+5. [ ] Complex No.
+6. [ ] Statistics
+7. [x] Quadratic Eqn
+8. [ ] Trigonometry
+9. [ ] Str Line 
+10. [ ] Circle 
+11. [ ] Parabola
+12. [ ] Ellipse
+13. [ ] Hyperbola
+14. 
