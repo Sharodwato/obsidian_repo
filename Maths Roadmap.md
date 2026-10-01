@@ -12,7 +12,7 @@
 				- [ ] LCD (3 STARS)
 				- [ ] MOD (2 STARS)
 				- [ ] AOD (2 STARS)
-	8. [ ] ITF (2 STARS)
+	8. [ ] ITF (2 STARS) ---*---
 	
 **IMPORTANT CHAPTERS OF CLASS XI**
 1. [x] Basic Maths
