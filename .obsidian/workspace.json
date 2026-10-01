@@ -42,17 +42,10 @@
             "id": "be9c92f9a885ea45",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "MAPPING/BACKLOG MINDMAP.canvas",
-                "viewState": {
-                  "x": -72.62296387395608,
-                  "y": -99.21254847267028,
-                  "zoom": -1.4313416617060328
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "BACKLOG MINDMAP"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -259,9 +252,9 @@
   },
   "active": "be9c92f9a885ea45",
   "lastOpenFiles": [
+    "MAPPING/BACKLOG MINDMAP.canvas",
     "NOTES/Practicals and Projects.md",
     "Chemistry Roadmap.md",
-    "MAPPING/BACKLOG MINDMAP.canvas",
     "MAPPING/Backlogs.md",
     "Maths Roadmap.md",
     "NOTES/SHORT NOTES.md",
