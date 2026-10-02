@@ -159,8 +159,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -175,12 +175,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "c2b4c451337d7b3a",
   "lastOpenFiles": [
+    "Daily Notes/2026-10-03.md",
+    "Maths Roadmap.md",
     "MAPPING/BACKLOG MINDMAP.canvas",
     "Hegen",
     "Yoo guys.md",
