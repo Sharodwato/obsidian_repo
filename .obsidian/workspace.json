@@ -42,10 +42,14 @@
             "id": "be9c92f9a885ea45",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-03"
             }
           },
           {
@@ -252,6 +256,9 @@
   },
   "active": "be9c92f9a885ea45",
   "lastOpenFiles": [
+    "Daily Notes/Untitled.md",
+    "2026-10-03.md",
+    "Daily Notes",
     "MAPPING/BACKLOG MINDMAP.canvas",
     "NOTES/Practicals and Projects.md",
     "Chemistry Roadmap.md",
